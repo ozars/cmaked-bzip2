@@ -1,0 +1,6 @@
+[submodule "bzip2"]
+	path = bzip2
+	url = git://sourceware.org/git/bzip2.git
+[submodule "test/bzip2-tests"]
+	path = test/bzip2-tests
+	url = git://sourceware.org/git/bzip2.git
